@@ -1,13 +1,13 @@
 {
   "commentUser" :{
-    "auth": {"user": "COMMENT_USER", "pass": "COMMENT_PASSWORD"},
-    "user": "COMMENT_USER"
+    "auth": {"user": "chuusai", "pass": "Dadovpetur17"},
+    "user": "chuusai"
   },
   "sites": {
     "default": {
-      "user": "SITE_USER",
-      "repo": "SITE_REPO",
-      "branch": "SITE_BRANCH",
+      "user": "milessabin",
+      "repo": "milessabin.com",
+      "branch": "wip/comment-test",
       "commentsEndMarker": "COMMENTS_END"
     }
   },
