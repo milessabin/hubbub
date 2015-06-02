@@ -47,7 +47,7 @@ function ensureForksExist() {
 // Convert a post url path to a source file path within git
 function urlPathToSourceFile(urlPath) {
   // TODO: Make this configurable!
-  return "_posts/" + urlPath.split('/').slice(-5, -1).join('-') + ".markdown";
+  return "src/html/_posts/" + urlPath.split('/').slice(-5, -1).join('-') + ".md";
 }
 
 app.get('/hubbub.js', function (req, res) {
