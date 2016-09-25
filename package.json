@@ -13,7 +13,7 @@
     "cors": "^2.5.2",
     "express": "^4.10.2",
     "invariant": "^2.2.0",
-    "marked": "^0.3.2",
+    "marked": "https://github.com/milessabin/marked/tarball/hgGeorg/markdown-in-block",
     "moment": "^2.10.6",
     "moment-timezone": "^0.4.0-2015d",
     "request": "^2.47.0",
